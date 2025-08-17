@@ -128,6 +128,3 @@ Add screenshots here (store images in `assets/` and reference like this):
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request for improvements or bug fixes.
 
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file (or update this section if you prefer another license).
